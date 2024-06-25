@@ -1,0 +1,33 @@
+.repo-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.error {
+  color: red;
+  font-size: 18px;
+  margin: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.repo-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sort-control {
+  margin: 20px;
+  min-width: 200px;
+}
+
+.error {
+  color: red;
+  font-size: 1.2em;
+  margin: 20px;
+}

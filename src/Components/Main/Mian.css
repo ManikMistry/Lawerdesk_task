@@ -1,0 +1,11 @@
+.main_div {
+  /* border: 1px solid red; */
+  height: 99.7vh;
+  width: 100vw;
+  background-color: #bbe9ff63;
+}
+.main_sub_div {
+  display: flex;
+  height: 99.1vh;
+  justify-content: center;
+}

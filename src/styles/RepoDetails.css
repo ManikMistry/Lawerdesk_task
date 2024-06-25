@@ -1,0 +1,44 @@
+.repo-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.chart-container {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 600px;
+}
+
+.highcharts-container {
+  width: 100% !important;
+}
+
+.highcharts-background {
+  fill: transparent !important;
+}
+
+.highcharts-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.highcharts-xaxis-labels span {
+  font-size: 12px !important;
+  font-weight: normal !important;
+}
+
+.highcharts-yaxis-title {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.highcharts-series rect {
+  fill: #1976d2;
+}
+
+/* .highcharts-series path {
+  stroke: #1976d2;
+} */
